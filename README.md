@@ -12,7 +12,7 @@
 
 ## Band Name Generator ##
 
-[animated gif here]
+![Band Name Generator Example](<https://github.com/Ongoing-Knowledge-Scraping/Band-Name-Generator/blob/main/Band-Name-Generator.gif> "Running the code")
 
 ## View on Replit ##
 https://replit.com/@kpatzer/Band-Name-Generator
