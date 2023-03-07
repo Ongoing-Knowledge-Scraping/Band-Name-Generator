@@ -1,1 +1,1 @@
-# 100-Days-of-Python
+# Band Name Generator
