@@ -11,3 +11,8 @@
 - Variable Naming
 
 ## Band Name Generator ##
+
+[animated gif here]
+
+## View on Replit ##
+https://replit.com/@kpatzer/Band-Name-Generator
